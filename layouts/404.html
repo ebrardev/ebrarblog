@@ -6,7 +6,10 @@
     <style>
         body {
             font-family: 'Arial', sans-serif;
-            background-color: #f4f4f4;
+            background-image: linear-gradient(to bottom, #070707, #060606, #050505, #030303, #020202, #0d0d0d, #151515, #1b1b1b, #2a2a2a, #393a3a, #494b4b, #5a5c5c);
+            background-repeat: no-repeat;
+            background-size: cover;
+            min-height: 100vh;
             margin: 0;
             padding: 0;
             display: flex;
@@ -20,11 +23,16 @@
         }
 
         h1 {
-            color: #555;
+            color: #fefbfb;
         }
 
         p {
-            color: #777;
+            color: #f2efef;
+        }
+        .image {
+          width: 400px;
+            height: 400px;
+            border-radius: 12px;
         }
 
         .button {
@@ -47,6 +55,9 @@
     <div class="container">
         <h1>404 Not Found</h1>
         <p>Üzgünüz, aradığınız sayfa bulunamadı.</p>
+        <div>
+        <img class="image" src="/images/404.jpg" alt="404 Not Found">
+    </div>
         <a href="/" class="button">Anasayfaya Dön</a>
     </div>
 </body>
