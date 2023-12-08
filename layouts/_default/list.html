@@ -11,7 +11,7 @@
     <p class="listItemDesc">{{.Params.description}}</p>
     <div class="listItemDetail">
         <img src={{.Params.avatar}} loading="lazy" alt="{{.Params.author}}" class="listItemAvatar" />
-        <span>
+        <span class="author">
             {{ range (.GetTerms  "authors") }}
             <a href={{ .Permalink }} class="listItemAuthor">{{.Name}}</a>
             {{ end }}

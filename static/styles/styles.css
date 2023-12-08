@@ -126,6 +126,17 @@ span{
     font-size: 14px;
     color: var(--textSoft);
   }
+  .listItemCategory:hover{
+    background-color: var(--bg);
+    color: var(--text);
+    text-decoration: underline;
+  }
+  .author{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  font-size: 13px;
+  }
 .container {
     max-width: 1366px;
     padding-left: 50px;
