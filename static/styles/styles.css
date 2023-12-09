@@ -3,6 +3,7 @@
     --bg: #1f3050;
     --text: #dee4eb;
     --textSoft: #cbd2d9;
+    
 
 }
 
@@ -14,12 +15,17 @@
 }
 body{
     background-image: linear-gradient(to bottom, #070707, #060606, #050505, #030303, #020202, #0d0d0d, #151515, #1b1b1b, #2a2a2a, #393a3a, #494b4b, #5a5c5c);
-    background-repeat: no-repeat;
+
     background-size: cover;
     min-height: 100vh;
     color: var(--text);
 
 }
+body.light{
+  background-image: linear-gradient(to bottom, #ebf3ff, #d5e2ff, #c7cfff, #c3b9ff, #c7a1f9);
+    color: #020202;
+}
+
 
 a{
     color: inherit;
@@ -137,7 +143,38 @@ span{
     gap: 10px;
   font-size: 13px;
   }
+  .toggle{
+    width: 40px;
+    height: 20px;
+    border-radius: 50px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    background-color: var(--bgSoft);
+    padding: 5px;
+    border: 0.5px solid var(--textSoft);
+    position: relative;
+  }
+  .toggle:hover{
+    background-color: #222121;
+  
+  }
+  .ball {
+    width: 19px;
+    height: 19px;
+    position: absolute;
+    left: 0;
+    border-radius: 50%;
+    background-color: #aa9797;
 
+    border : 1px solid var(--textSoft);
+  }
+
+  .light .ball{
+    left:unset;
+    right: 0;
+  }
   /* single post page */
   .singleHead {
     display: flex;
