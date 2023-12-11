@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://example.org/authors/</loc>
+    <lastmod>2023-12-08T09:20:04+03:00</lastmod>
+  </url><url>
+    <loc>https://example.org/categories/</loc>
+    <lastmod>2023-12-08T09:20:04+03:00</lastmod>
+  </url><url>
+    <loc>https://example.org/categories/chatgpt/</loc>
+    <lastmod>2023-12-08T09:20:04+03:00</lastmod>
+  </url><url>
+    <loc>https://example.org/authors/ebrardev/</loc>
+    <lastmod>2023-12-08T09:20:04+03:00</lastmod>
+  </url><url>
+    <loc>https://example.org/</loc>
+    <lastmod>2023-12-08T09:20:04+03:00</lastmod>
+  </url><url>
+    <loc>https://example.org/categories/general/</loc>
+    <lastmod>2023-12-08T09:20:04+03:00</lastmod>
+  </url><url>
+    <loc>https://example.org/my-first-post/</loc>
+    <lastmod>2023-12-08T09:20:04+03:00</lastmod>
+  </url><url>
+    <loc>https://example.org/my-four-post/</loc>
+    <lastmod>2023-12-08T09:20:04+03:00</lastmod>
+  </url><url>
+    <loc>https://example.org/my-third-post/</loc>
+    <lastmod>2023-12-08T09:20:04+03:00</lastmod>
+  </url><url>
+    <loc>https://example.org/my-two-post/</loc>
+    <lastmod>2023-12-08T09:20:04+03:00</lastmod>
+  </url>
+</urlset>

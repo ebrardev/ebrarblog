@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ebrardevblog</title>
+    <link>https://example.org/</link>
+    <description>Recent content on Ebrardevblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 08 Dec 2023 09:20:04 +0300</lastBuildDate>
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://example.org/my-first-post/</link>
+      <pubDate>Fri, 08 Dec 2023 09:20:04 +0300</pubDate>
+      <guid>https://example.org/my-first-post/</guid>
+      <description>Features Support Standard Markdown / CommonMark and GFM(GitHub Flavored Markdown); Full-featured: Real-time Preview, Image (cross-domain) upload, Preformatted text/Code blocks/Tables insert, Code fold, Search replace, Read only, Themes, Multi-languages, L18n, HTML entities, Code syntax highlighting&amp;hellip;; Markdown Extras : Support ToC (Table of Contents), Emoji, Task lists, @Links&amp;hellip;; Compatible with all major browsers (IE8+), compatible Zepto.js and iPad; Support identification, interpretation, fliter of the HTML tags; Support TeX (LaTeX expressions, Based on KaTeX), Flowchart and Sequence Diagram of Markdown extended syntax; Support AMD/CMD (Require.</description>
+    </item>
+    <item>
+      <title>My four Post</title>
+      <link>https://example.org/my-four-post/</link>
+      <pubDate>Fri, 08 Dec 2023 09:20:04 +0300</pubDate>
+      <guid>https://example.org/my-four-post/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>My three Post</title>
+      <link>https://example.org/my-third-post/</link>
+      <pubDate>Fri, 08 Dec 2023 09:20:04 +0300</pubDate>
+      <guid>https://example.org/my-third-post/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>My two Post</title>
+      <link>https://example.org/my-two-post/</link>
+      <pubDate>Fri, 08 Dec 2023 09:20:04 +0300</pubDate>
+      <guid>https://example.org/my-two-post/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
